@@ -21,4 +21,3 @@ Luego decidí por entrar al Bootcamp de #soyHenry el cual terminé, adquiriendo 
 
 
 📩: juin@hotmail.com.ar
-Linkedin: https://www.linkedin.com/in/juan-jos%C3%A9-cieri-8900a8234/
