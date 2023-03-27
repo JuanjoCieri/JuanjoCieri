@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Juan José Cieri.
 
-Full Stack Developer con orientación al Front-End.
+Full Stack Developer with orientation to the Front-End.
 
-Tengo 19 años y soy un apasionado por la programación. Estudié 1 año Ingenieria en Sistemas hasta darme cuenta que lo mio era el desarrollo web.
-Luego decidí por entrar al Bootcamp de #soyHenry el cual terminé, adquiriendo mucha información, conocimiento y aptitudes para trabajar en equipo.
+I am 19 years old and passionate about programming. I studied Systems Engineering for 1 year until I realized that my thing was web development. Then I decided to enter the Bootcamp of #soyHenry which I finished, acquiring a lot of information, knowledge and skills to work in a team.
 
 
 ## 🌐 Socials:
